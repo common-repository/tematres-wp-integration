@@ -1,0 +1,190 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tematres WP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-30 18:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Rebeca Moura <rebecamoura@ibict.br>\n"
+"Language-Team: Rebeca Moura <rebecamoura@ibict.br>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-5.8.1\n"
+"X-Domain: tematres-wp-integration"
+
+#: functions.php:447
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:440
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: functions.php:443
+#, php-format
+msgid "Add or remove %s"
+msgstr ""
+
+#: functions.php:435 functions.php:446
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: functions.php:566
+msgid "already exists."
+msgstr ""
+
+#: functions.php:444
+#, php-format
+msgid "Choose from the most used %s"
+msgstr ""
+
+#: functions.php:294
+msgid "Choose the post types where the Tematres Tags will be applied"
+msgstr ""
+
+#: functions.php:274
+msgid "Currently, the saved URL is: "
+msgstr ""
+
+#: functions.php:287
+msgid "Define the Tag Name (this doesn't affect the term slug)"
+msgstr ""
+
+#: functions.php:438
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: functions-api.php:32
+msgid "Empty search term"
+msgstr ""
+
+#: functions.php:632
+msgid "Hello world!"
+msgstr ""
+
+#: functions.php:630
+msgid "Hi there!"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://github.com/becahp"
+msgstr ""
+
+#: functions.php:186
+msgid "Insert Tag Name"
+msgstr ""
+
+#: functions.php:201
+msgid "Insert Tag Name:"
+msgstr ""
+
+#: functions.php:160
+msgid "Insert URL"
+msgstr ""
+
+#: functions-api.php:22
+msgid "It's alive!"
+msgstr ""
+
+#: functions.php:441
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: functions.php:445
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: functions.php:46 functions.php:72
+msgid "Please write more"
+msgstr ""
+
+#: functions.php:434
+#, php-format
+msgid "Popular %s"
+msgstr ""
+
+#: functions.php:216
+msgid "Post types where Tematres Tags will be applied"
+msgstr ""
+
+#. Author of the plugin
+msgid "Rebeca Moura e Lucas Rodrigues"
+msgstr ""
+
+#: functions.php:578
+msgid "saved as Tematres Tags"
+msgstr ""
+
+#: functions.php:433
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: functions.php:47 functions.php:73
+msgid "Searching..."
+msgstr ""
+
+#: functions.php:222
+msgid "Select Post types:"
+msgstr ""
+
+#: functions.php:442
+#, php-format
+msgid "Separate %s with commas"
+msgstr ""
+
+#: functions.php:195
+msgid "Tag Name"
+msgstr ""
+
+#: functions.php:414
+msgid "Tags"
+msgstr ""
+
+#. Title to be displayed on the administration page
+#: functions.php:145
+msgid "Tematres URL"
+msgstr ""
+
+#. Name of the plugin
+#: functions.php:87 functions.php:88
+msgid "Tematres WP"
+msgstr ""
+
+#: pagina-configuracao-display.php:21
+msgid "Tematres WP plugin settings"
+msgstr ""
+
+#: functions.php:115
+msgid ""
+"There was an error adding this setting. Please try again. If this persists, "
+"shoot us an email."
+msgstr ""
+
+#: functions.php:264
+msgid "This setting applies to all features of the Tematres WP plugin."
+msgstr ""
+
+#: functions.php:439
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: functions.php:268
+msgid "URL example:"
+msgstr ""
+
+#. Description of the plugin
+msgid "WordPress and Tematres Integration"
+msgstr ""
